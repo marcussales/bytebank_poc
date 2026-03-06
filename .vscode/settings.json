@@ -1,0 +1,45 @@
+{
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            120
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "editor.rulers": [
+        120
+    ],
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit",
+        "source.organizeImports": "explicit"
+    },
+    "dart.lineLength": 120,
+    "dart.debugExternalLibraries": true,
+    "dart.debugSdkLibraries": true,
+    "explorer.confirmDragAndDrop": false,
+    "dart.debugExternalPackageLibraries": true,
+    // "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "explorer.confirmDelete": false,
+    "editor.formatOnSave": true,
+    "dart_data_class_generator.fromMap.default_values": true,
+    "dart_data_class_generator.constructor.default_values": true,
+    "python.autoComplete.extraPaths": [],
+    "python.analysis.extraPaths": [],
+    "material-icon-theme.folders.theme": "specific",
+    "material-icon-theme.activeIconPack": "",
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": true,
+        "markdown": false,
+        "scminput": false,
+        "yaml": true
+    },
+    "workbench.editor.empty.hint": "hidden"
+}
